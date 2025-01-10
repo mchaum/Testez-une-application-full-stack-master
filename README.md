@@ -2,6 +2,11 @@
 
 Cette application permet de créer et de gérer des séances de yoga ainsi que leurs participations.
 
+Par défaut, les identifiants du compte admin sont :
+
+- login: yoga@studio.com
+- password: test!1234
+
 ---
 
 ## Prérequis
