@@ -112,6 +112,10 @@ Pour exécuter les tests du back-end avec JUnit5 :
 
 > mvn test
 
+Le rapport de couverture sera disponible dans ce dossier :
+
+> back/target/site/jacoco/index.html
+
 
 ### Front-end
 
